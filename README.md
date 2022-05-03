@@ -3,7 +3,7 @@
 
 ![authorsyok's GitHub stats](https://github-readme-stats.vercel.app/api?username=authorsyok&show_icons=true&theme=radical)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=authorsyok)](https://solved.ac/authorsyok)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=syok)](https://solved.ac/syok)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=authorsyok&theme=chalk&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)  
 [![status](https://github-readme-streak-stats.herokuapp.com/?user=authorsyok)](#)
