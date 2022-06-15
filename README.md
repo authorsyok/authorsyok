@@ -6,5 +6,3 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=syok)](https://solved.ac/syok)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=authorsyok&theme=chalk&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)  
-[![status](https://github-readme-streak-stats.herokuapp.com/?user=authorsyok)](#)
-<a href="https://opgc.me/#/users/authorsyok" target="_blank"><img src="https://api.opgc.me/githubs/users/authorsyok/tag/?theme=basic" /></a>
